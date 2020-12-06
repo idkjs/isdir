@@ -1,6 +1,6 @@
 # isdir
 
-[`isdir`](https://github.com/peterpme/dotfiles/blob/master/bin/isdir) wrapper for fish using [bass](https://github.com/edc/bass).
+[`isdir`](https://github.com/peterpme/dotfiles/blob/master/bin/isdir) port for fish shell .
 
 ## Installation
 
